@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 34,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 578.31124522094433,
+            "y": -10
+          },
+          "nodeIndex": "DimDate",
+          "nodeLineageTag": "08885ec0-083d-4617-a27c-de3604c75e63",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 825.31124522094433,
+            "y": 0
+          },
+          "nodeIndex": "DimGeography",
+          "nodeLineageTag": "975616d5-23d7-456e-9249-3ad97e0395cf",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 15,
+            "y": 0
+          },
+          "nodeIndex": "DimProduct",
+          "nodeLineageTag": "ca9b69e3-edd2-4ea7-89e2-d09290b5d3d8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 286.18419195575927,
+            "y": 182.31286804174508
+          },
+          "nodeIndex": "FactInternetSales",
+          "nodeLineageTag": "80c9305f-85b9-45bc-b544-275d5ce88648",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 293.31124522094433,
+            "y": 0
+          },
+          "nodeIndex": "Measure",
+          "nodeLineageTag": "31f1466b-2564-4302-affc-8ee47dd4d06c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "모든 테이블",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "모든 테이블",
+  "defaultDiagram": "모든 테이블"
+}

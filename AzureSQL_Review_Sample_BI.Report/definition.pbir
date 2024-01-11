@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../AzureSQL_Review_Sample_BI.Dataset"
+    },
+    "byConnection": null
+  }
+}
